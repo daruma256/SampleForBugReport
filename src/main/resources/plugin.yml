@@ -1,0 +1,4 @@
+name: CustomModel
+version: '0.0.1-alpha'
+main: io.github.daruma256.testplugin.TestPlugin
+api-version: '1.21'
